@@ -209,11 +209,7 @@ laddr = "tcp://0.0.0.0:26656"
 external_address = ""
 
 # Comma separated list of seed nodes to connect to
-<<<<<<< HEAD
 seeds = ""
-=======
-seeds = "111b01818c72363f8652777951fbee171bff2d3d@65.109.85.117:26656"
->>>>>>> 42aeecfac4018666fe854fead1cc6ed94d708765
 
 # Comma separated list of nodes to keep persistent connections to
 persistent_peers = ""
